@@ -30,7 +30,7 @@ prompt-toolkit==1.0.15
 ptyprocess==0.5.2
 pycparser==2.18
 PyDispatcher==2.0.5
-Pygments==2.2.0
+Pygments==2.7.4
 pymongo==3.6.1
 pyOpenSSL==18.0.0
 python-redis==0.1.7
