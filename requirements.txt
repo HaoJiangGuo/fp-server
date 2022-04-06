@@ -44,7 +44,7 @@ six==1.11.0
 tornado==5.0.2
 Tornado-MySQL==0.5.1
 traitlets==4.3.2
-Twisted==18.4.0
+Twisted==22.2.0
 urllib3==1.22
 w3lib==1.19.0
 wcwidth==0.1.7
